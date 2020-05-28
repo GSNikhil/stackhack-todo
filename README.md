@@ -1,5 +1,3 @@
 # stackhack-todo
-YouTube Link - 
+YouTube Link - https://youtu.be/ry8vJoB1LTY
 
-## Screenshots
-![Drag Racing](https://github.com/GSNikhil/stackhack-todo/images/1.jpg?raw=true "New")
